@@ -7,7 +7,6 @@ func main() {
 	fmt.Println(binarySearch(arr, 4)) // 4
 }
 
-
 //
 // 在已排序数组 sortedArr 中搜索 v
 // 存在则返回索引，否则返回 -1
