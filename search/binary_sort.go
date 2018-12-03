@@ -32,7 +32,6 @@ func binarySearch(sortedArr []int, v int) int {
 			return mid
 		}
 	}
-
 	// 未找到
 	return -1
 }
