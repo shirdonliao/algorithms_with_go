@@ -1,7 +1,7 @@
 package main
 
 import (
-	"../../common"
+	"github.com/shirdonliao/algorithms_with_go/common"
 	"fmt"
 )
 
